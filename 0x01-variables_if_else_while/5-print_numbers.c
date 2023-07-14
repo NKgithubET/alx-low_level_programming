@@ -1,7 +1,4 @@
-/*
- * File: 5-print_numbers.c
- * Auth: Brennan D Baraban
- */
+
 
 #include <stdio.h>
 
