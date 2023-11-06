@@ -1,1 +1,1 @@
-THis is a readme file for preprocessor 
+this is a structure directory
